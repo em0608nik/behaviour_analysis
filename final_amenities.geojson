@@ -1,0 +1,1542 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4787048, 51.4392797, 0] }, 
+            "properties": {
+                "name": "Centrum", 
+                "styleUrl": "#icon-1684-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4918369, 51.4489089, 0] }, 
+            "properties": {
+                "name": "Tu/e ", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4826101, 51.4412325, 0], 
+                        [5.4815801, 51.4424095, 0], 
+                        [5.4779753, 51.4420751, 0], 
+                        [5.4771599, 51.4436466, 0], 
+                        [5.4762586, 51.4434794, 0], 
+                        [5.4760012, 51.4415535, 0], 
+                        [5.4704222, 51.4426235, 0], 
+                        [5.4666456, 51.4439074, 0], 
+                        [5.4654440, 51.4445627, 0], 
+                        [5.4646715, 51.4440411, 0], 
+                        [5.4659804, 51.4428508, 0], 
+                        [5.4654869, 51.4421152, 0], 
+                        [5.4655298, 51.4410988, 0], 
+                        [5.4661306, 51.4394135, 0], 
+                        [5.4746279, 51.4383434, 0], 
+                        [5.4748639, 51.4374606, 0], 
+                        [5.4769024, 51.4368453, 0], 
+                        [5.4815802, 51.4369791, 0], 
+                        [5.4818376, 51.4387179, 0], 
+                        [5.4826101, 51.4412325, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "centrum", 
+                "styleUrl": "#poly-87CEAC-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#87ceac", 
+                "stroke-opacity": 1, 
+                "stroke": "#87ceac", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4822637, 51.4345283, 0] }, 
+            "properties": {
+                "name": "Abbemuseum", 
+                "styleUrl": "#icon-1636-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4757751, 51.4230636, 0] }, 
+            "properties": {
+                "name": "park", 
+                "styleUrl": "#icon-1720-0F9D58-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0f9d58", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4783471, 51.4321398, 0], 
+                        [5.4785187, 51.4299993, 0], 
+                        [5.4769738, 51.4289290, 0], 
+                        [5.4740555, 51.4275376, 0], 
+                        [5.4713090, 51.4259321, 0], 
+                        [5.4668459, 51.4229083, 0], 
+                        [5.4699786, 51.4165656, 0], 
+                        [5.4807718, 51.4182651, 0], 
+                        [5.4820378, 51.4231759, 0], 
+                        [5.4841836, 51.4252899, 0], 
+                        [5.4839690, 51.4271898, 0], 
+                        [5.4818232, 51.4275376, 0], 
+                        [5.4801495, 51.4260124, 0], 
+                        [5.4784758, 51.4252097, 0], 
+                        [5.4771025, 51.4265476, 0], 
+                        [5.4784329, 51.4281798, 0], 
+                        [5.4797633, 51.4296782, 0], 
+                        [5.4795916, 51.4321398, 0], 
+                        [5.4783471, 51.4321398, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "stadswandelpark", 
+                "styleUrl": "#poly-0F9D58-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#0f9d58", 
+                "stroke-opacity": 1, 
+                "stroke": "#0f9d58", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4749146, 51.4242899, 0] }, 
+            "properties": {
+                "name": "prehistorisch dorp", 
+                "styleUrl": "#icon-1636-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4937574, 51.4388815, 0] }, 
+            "properties": {
+                "name": "Park", 
+                "styleUrl": "#icon-1720-0F9D58-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0f9d58", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4911395, 51.4375171, 0] }, 
+            "properties": {
+                "name": "Daf Museum", 
+                "styleUrl": "#icon-1636-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4694567, 51.4339537, 0] }, 
+            "properties": {
+                "name": "Parkl", 
+                "styleUrl": "#icon-1720-0F9D58-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0f9d58", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4694826, 51.4308234, 0] }, 
+            "properties": {
+                "name": "Park", 
+                "styleUrl": "#icon-1720-0F9D58-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0f9d58", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4810595, 51.4475299, 0], 
+                        [5.4862093, 51.4441597, 0], 
+                        [5.5008863, 51.4470484, 0], 
+                        [5.4953932, 51.4521835, 0], 
+                        [5.4865094, 51.4509802, 0], 
+                        [5.4810595, 51.4475299, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "TU/e", 
+                "styleUrl": "#poly-87CEAC-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#87ceac", 
+                "stroke-opacity": 1, 
+                "stroke": "#87ceac", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4710173, 51.4481638, 0] }, 
+            "properties": {
+                "name": "Shop", 
+                "styleUrl": "#icon-1685-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4753946, 51.446452, 0] }, 
+            "properties": {
+                "name": "Shop", 
+                "styleUrl": "#icon-1685-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4863175, 51.4530849, 0], 
+                        [5.4902652, 51.4528709, 0], 
+                        [5.4900077, 51.4561864, 0], 
+                        [5.4867466, 51.4560259, 0], 
+                        [5.4863175, 51.4530849, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Maxima MC", 
+                "styleUrl": "#poly-F9A825-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#f9a825", 
+                "stroke-opacity": 1, 
+                "stroke": "#f9a825", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4883772, 51.4545288, 0] }, 
+            "properties": {
+                "name": "Maxima mc", 
+                "styleUrl": "#icon-1624-F9A825-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#f9a825", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4426302, 51.4432423, 0], 
+                        [5.4440894, 51.4388018, 0], 
+                        [5.4493250, 51.4403533, 0], 
+                        [5.4426302, 51.4432423, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Park", 
+                "styleUrl": "#poly-0F9D58-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#0f9d58", 
+                "stroke-opacity": 1, 
+                "stroke": "#0f9d58", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4453339, 51.4410221, 0] }, 
+            "properties": {
+                "name": "Park", 
+                "styleUrl": "#icon-1720-0F9D58-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0f9d58", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4470505, 51.443697, 0] }, 
+            "properties": {
+                "name": "Next Nature Museum", 
+                "styleUrl": "#icon-1636-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4457209, 51.4541259, 0], 
+                        [5.4485533, 51.4562652, 0], 
+                        [5.4387686, 51.4634312, 0], 
+                        [5.4380175, 51.4627093, 0], 
+                        [5.4369231, 51.4610783, 0], 
+                        [5.4398628, 51.4587520, 0], 
+                        [5.4380819, 51.4568000, 0], 
+                        [5.4457209, 51.4541259, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "The Herdegang", 
+                "styleUrl": "#poly-0F9D58-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#0f9d58", 
+                "stroke-opacity": 1, 
+                "stroke": "#0f9d58", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4429743, 51.4577092, 0] }, 
+            "properties": {
+                "name": "the Herdegang", 
+                "styleUrl": "#icon-1720-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4299832, 51.4608288, 0] }, 
+            "properties": {
+                "name": "International school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4596542, 51.4642512, 0], 
+                        [5.4672931, 51.4672456, 0], 
+                        [5.4660915, 51.4681546, 0], 
+                        [5.4605983, 51.4661762, 0], 
+                        [5.4573367, 51.4673525, 0], 
+                        [5.4596542, 51.4642512, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Park", 
+                "styleUrl": "#poly-0F9D58-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#0f9d58", 
+                "stroke-opacity": 1, 
+                "stroke": "#0f9d58", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4618858, 51.4659623, 0] }, 
+            "properties": {
+                "name": "Park", 
+                "styleUrl": "#icon-1720-0F9D58-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0f9d58", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4568218, 51.4706675, 0] }, 
+            "properties": {
+                "name": "shops", 
+                "styleUrl": "#icon-1684-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4687522, 51.4647859, 0], 
+                        [5.4749320, 51.4648929, 0], 
+                        [5.4743312, 51.4668178, 0], 
+                        [5.4687522, 51.4666040, 0], 
+                        [5.4687522, 51.4647859, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Catherina", 
+                "styleUrl": "#poly-F9A825-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#f9a825", 
+                "stroke-opacity": 1, 
+                "stroke": "#f9a825", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4719494, 51.4659623, 0] }, 
+            "properties": {
+                "name": "Catherina", 
+                "styleUrl": "#icon-1624-F9A825-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#f9a825", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4726753, 51.4676883, 0], 
+                        [5.4789410, 51.4676883, 0], 
+                        [5.4761086, 51.4695597, 0], 
+                        [5.4725895, 51.4698270, 0], 
+                        [5.4726753, 51.4676883, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "shops", 
+                "styleUrl": "#poly-7CB342-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#7cb342", 
+                "stroke-opacity": 1, 
+                "stroke": "#7cb342", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4750786, 51.4687042, 0] }, 
+            "properties": {
+                "name": "shops", 
+                "styleUrl": "#icon-1684-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4675255, 51.4706825, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4674397, 51.4760287, 0] }, 
+            "properties": {
+                "name": "Restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4458103, 51.4741041, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4568825, 51.4773117, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4577408, 51.4788085, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4708072, 51.4766284, 0], 
+                        [5.4750129, 51.4765749, 0], 
+                        [5.4735538, 51.4837912, 0], 
+                        [5.4714080, 51.4840050, 0], 
+                        [5.4704639, 51.4868378, 0], 
+                        [5.4677173, 51.4887083, 0], 
+                        [5.4663440, 51.4879067, 0], 
+                        [5.4693481, 51.4858757, 0], 
+                        [5.4699489, 51.4837912, 0], 
+                        [5.4708072, 51.4766284, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Park", 
+                "styleUrl": "#poly-0F9D58-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#0f9d58", 
+                "stroke-opacity": 1, 
+                "stroke": "#0f9d58", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4722282, 51.4810652, 0] }, 
+            "properties": {
+                "name": "henri Dunantpark", 
+                "styleUrl": "#icon-1720-0F9D58-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0f9d58", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4754039, 51.4782321, 0] }, 
+            "properties": {
+                "name": "Shop", 
+                "styleUrl": "#icon-1684-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4863903, 51.484005, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4680799, 51.4868643, 0] }, 
+            "properties": {
+                "name": "Pill", 
+                "styleUrl": "#icon-1646-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4739378, 51.4896969, 0], 
+                        [5.4744742, 51.4882406, 0], 
+                        [5.4769633, 51.4887750, 0], 
+                        [5.4757617, 51.4901244, 0], 
+                        [5.4739378, 51.4896969, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "shops", 
+                "styleUrl": "#poly-7CB342-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#7cb342", 
+                "stroke-opacity": 1, 
+                "stroke": "#7cb342", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4753287, 51.4890957, 0] }, 
+            "properties": {
+                "name": "shops", 
+                "styleUrl": "#icon-1684-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4669817, 51.4889754, 0] }, 
+            "properties": {
+                "name": "shops", 
+                "styleUrl": "#icon-1684-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4694145, 51.455555, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4492536, 51.4765180, 0], 
+                        [5.4538885, 51.4781752, 0], 
+                        [5.4480520, 51.4784959, 0], 
+                        [5.4492536, 51.4765180, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Park", 
+                "styleUrl": "#poly-0F9D58-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#0f9d58", 
+                "stroke-opacity": 1, 
+                "stroke": "#0f9d58", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4499689, 51.4777475, 0] }, 
+            "properties": {
+                "name": "Park", 
+                "styleUrl": "#icon-1720-0F9D58-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0f9d58", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4505697, 51.4810617, 0] }, 
+            "properties": {
+                "name": "edu", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.454518, 51.479565, 0] }, 
+            "properties": {
+                "name": "edu", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4467932, 51.4775792, 0] }, 
+            "properties": {
+                "name": "shop", 
+                "styleUrl": "#icon-1684-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4497868, 51.4835719, 0] }, 
+            "properties": {
+                "name": "Pill", 
+                "styleUrl": "#icon-1646-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4479414, 51.4901725, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4510313, 51.4893174, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4487139, 51.487821, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4518038, 51.4868055, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4408093, 51.4885425, 0] }, 
+            "properties": {
+                "name": "shops", 
+                "styleUrl": "#icon-1684-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4454441, 51.4830908, 0], 
+                        [5.4459591, 51.4822623, 0], 
+                        [5.4473324, 51.4824761, 0], 
+                        [5.4466458, 51.4834115, 0], 
+                        [5.4469891, 51.4840262, 0], 
+                        [5.4438992, 51.4870727, 0], 
+                        [5.4397793, 51.4883287, 0], 
+                        [5.4396506, 51.4880348, 0], 
+                        [5.4408093, 51.4872063, 0], 
+                        [5.4430409, 51.4867788, 0], 
+                        [5.4454441, 51.4830908, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "park", 
+                "styleUrl": "#poly-0F9D58-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#0f9d58", 
+                "stroke-opacity": 1, 
+                "stroke": "#0f9d58", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4452295, 51.4847478, 0] }, 
+            "properties": {
+                "name": "Park", 
+                "styleUrl": "#icon-1720-0F9D58-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0f9d58", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4442512, 51.4826216, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4424487, 51.4821138, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4399167, 51.4823277, 0], 
+                        [5.4407321, 51.4814991, 0], 
+                        [5.4422341, 51.4816061, 0], 
+                        [5.4413115, 51.4826484, 0], 
+                        [5.4403673, 51.4826618, 0], 
+                        [5.4399167, 51.4823277, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "shops", 
+                "styleUrl": "#poly-7CB342-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#7cb342", 
+                "stroke-opacity": 1, 
+                "stroke": "#7cb342", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4409896, 51.4820737, 0] }, 
+            "properties": {
+                "name": "shops", 
+                "styleUrl": "#icon-1684-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4392924, 51.484173, 0] }, 
+            "properties": {
+                "name": "shops", 
+                "styleUrl": "#icon-1684-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4360569, 51.4792609, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4378053, 51.4778912, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4375907, 51.4767418, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4321031, 51.4763943, 0] }, 
+            "properties": {
+                "name": "shops", 
+                "styleUrl": "#icon-1684-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.429099, 51.4798957, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4180786, 51.4846389, 0] }, 
+            "properties": {
+                "name": "shops", 
+                "styleUrl": "#icon-1685-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4221555, 51.4795422, 0] }, 
+            "properties": {
+                "name": "supermarket", 
+                "styleUrl": "#icon-1685-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4963991, 51.4911405, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.5011197, 51.4747311, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4355285, 51.4781988, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4364512, 51.4757932, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.425413, 51.4774293, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4272798, 51.4805564, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4272798, 51.479033, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4259924, 51.4755582, 0], 
+                        [5.4263786, 51.4728317, 0], 
+                        [5.4320863, 51.4687684, 0], 
+                        [5.4354766, 51.4713080, 0], 
+                        [5.4320005, 51.4708001, 0], 
+                        [5.4302839, 51.4738742, 0], 
+                        [5.4259924, 51.4755582, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "forest", 
+                "styleUrl": "#poly-0F9D58-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#0f9d58", 
+                "stroke-opacity": 1, 
+                "stroke": "#0f9d58", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4291681, 51.4725644, 0] }, 
+            "properties": {
+                "name": "park", 
+                "styleUrl": "#icon-1720-0F9D58-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0f9d58", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4336313, 51.473794, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4408893, 51.482355, 0] }, 
+            "properties": {
+                "name": "huisarts", 
+                "styleUrl": "#icon-1624-F9A825-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#f9a825", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4393873, 51.4800966, 0] }, 
+            "properties": {
+                "name": "sport", 
+                "styleUrl": "#icon-1696-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4456745, 51.4682804, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.452855, 51.4639625, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4575542, 51.4641363, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4576401, 51.4651523, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4587988, 51.4670237, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4581157, 51.4593378, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4600039, 51.4597924, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.5110461, 51.4469846, 0], 
+                        [5.5104024, 51.4481346, 0], 
+                        [5.5067546, 51.4474392, 0], 
+                        [5.5069262, 51.4465566, 0], 
+                        [5.5110461, 51.4469846, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "sport", 
+                "styleUrl": "#poly-7CB342-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#7cb342", 
+                "stroke-opacity": 1, 
+                "stroke": "#7cb342", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.5088574, 51.447252, 0] }, 
+            "properties": {
+                "name": "sport", 
+                "styleUrl": "#icon-1696-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.5085141, 51.4483754, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.512634, 51.4494452, 0] }, 
+            "properties": {
+                "name": "park", 
+                "styleUrl": "#icon-1720-0F9D58-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0f9d58", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.5095441, 51.4534033, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.5084283, 51.4539649, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4993647, 51.4502475, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [5.4946105, 51.4523811, 0], 
+                        [5.4971855, 51.4509904, 0], 
+                        [5.5035369, 51.4509904, 0], 
+                        [5.5041378, 51.4536113, 0], 
+                        [5.5046527, 51.4571412, 0], 
+                        [5.4987304, 51.4574086, 0], 
+                        [5.4902332, 51.4567668, 0], 
+                        [5.4902652, 51.4528709, 0], 
+                        [5.4946105, 51.4523811, 0]  
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "park", 
+                "styleUrl": "#poly-0F9D58-1200-77-nodesc", 
+                "fill-opacity": 0.30196078431372547, 
+                "fill": "#0f9d58", 
+                "stroke-opacity": 1, 
+                "stroke": "#0f9d58", 
+                "stroke-width": 1.2
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4963272, 51.4549484, 0] }, 
+            "properties": {
+                "name": "park", 
+                "styleUrl": "#icon-1720-0F9D58-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0f9d58", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4977005, 51.4539322, 0] }, 
+            "properties": {
+                "name": "restaurant", 
+                "styleUrl": "#icon-1577-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4898469, 51.4521137, 0] }, 
+            "properties": {
+                "name": "sport", 
+                "styleUrl": "#icon-1696-7CB342-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#7cb342", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4937093, 51.4551623, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "geometry": { "type": "Point", "coordinates": [5.4913919, 51.453852, 0] }, 
+            "properties": {
+                "name": "school", 
+                "styleUrl": "#icon-1726-0288D1-nodesc", 
+                "label-scale": 0, 
+                "icon-opacity": 1, 
+                "icon-color": "#0288d1", 
+                "icon-scale": 1, 
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }
+    ]
+}

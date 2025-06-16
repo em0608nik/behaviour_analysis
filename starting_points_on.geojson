@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.477715,
+          51.443683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 296014,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "countrycode": "NL",
+        "name": "Central station",
+        "country": "Netherlands",
+        "state": "North Brabant",
+        "extent": [
+          5.3567184,
+          51.4970779,
+          5.5488528,
+          51.4000475
+        ]
+      },
+      "id": "U0NDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.485568,
+          51.447856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 296014,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "countrycode": "NL",
+        "name": "TU/e",
+        "country": "Netherlands",
+        "state": "North Brabant",
+        "extent": [
+          5.3567184,
+          51.4970779,
+          5.5488528,
+          51.4000475
+        ]
+      },
+      "id": "Y1MjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.506511,
+          51.456145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 296014,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "countrycode": "NL",
+        "name": "Karpen 1",
+        "country": "Netherlands",
+        "state": "North Brabant",
+        "extent": [
+          5.3567184,
+          51.4970779,
+          5.5488528,
+          51.4000475
+        ]
+      },
+      "id": "gzOTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.505266,
+          51.451115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 296014,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "countrycode": "NL",
+        "name": "Karpen 2",
+        "country": "Netherlands",
+        "state": "North Brabant",
+        "extent": [
+          5.3567184,
+          51.4970779,
+          5.5488528,
+          51.4000475
+        ]
+      },
+      "id": "Y1NjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.449734,
+          51.463767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Vredeoord 1"
+      },
+      "id": "E2NTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.444155,
+          51.467217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Vredeoord 2"
+      },
+      "id": "U5MDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.428834,
+          51.485578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Acht 1"
+      },
+      "id": "Y1NzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.445743,
+          51.478443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Acht 2"
+      },
+      "id": "M0MTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.432997,
+          51.479271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Acht 3"
+      },
+      "id": "I4MjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.439091,
+          51.488545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Acht 4"
+      },
+      "id": "cyNzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.444584,
+          51.484268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Acht 5"
+      },
+      "id": "c3OTc"
+    }
+  ]
+}

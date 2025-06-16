@@ -1,0 +1,470 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.431666,
+          51.484497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus station"
+      },
+      "id": "I5OTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.437235,
+          51.478905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "AwOTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.442674,
+          51.473393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "Q3NTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.447172,
+          51.468928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop",
+        "description": "maybe proper to have a station because hospital + old ppl home"
+      },
+      "id": "c1NDM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.456107,
+          51.460045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "high"
+      },
+      "id": "I5MDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.435207,
+          51.471293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "UyMzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.42937,
+          51.475844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "k2MDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.423545,
+          51.477574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "QyMTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.421088,
+          51.481484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "k1MjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.419371,
+          51.479279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "E5NDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.428598,
+          51.479151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "high",
+        "description": "zoo + library + kids + cafes"
+      },
+      "id": "Q2MjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.440485,
+          51.489072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "high"
+      },
+      "id": "E1NDU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.447459,
+          51.491042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "E1ODc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.451558,
+          51.490548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "E2MTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.452738,
+          51.486796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "I5MDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.449283,
+          51.487337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "Q1NjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.45071,
+          51.482788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "high",
+        "description": "store + hausartz"
+      },
+      "id": "A3MzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.454497,
+          51.482152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "I0ODU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.441462,
+          51.481317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "high"
+      },
+      "id": "E5NTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.444874,
+          51.478591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "kwNjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.445753,
+          51.475357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "kwMzA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.437653,
+          51.484837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "Y4MTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.477436,
+          51.443697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "high"
+      },
+      "id": "I1MDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.518785,
+          51.451549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "high"
+      },
+      "id": "k0OTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.437224,
+          51.479355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "c0Njk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.511972,
+          51.451348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "QyNTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.501028,
+          51.450098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "high"
+      },
+      "id": "Y5MjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.478079,
+          51.443737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "I4MTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.447009,
+          51.468711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "high"
+      },
+      "id": "g5OTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.42804,
+          51.47928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "high"
+      },
+      "id": "AzMDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.44048,
+          51.489017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "k0NTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.450099,
+          51.482941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "g4NTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.44158,
+          51.481177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "bus stop"
+      },
+      "id": "EzNTY"
+    }
+  ]
+}
