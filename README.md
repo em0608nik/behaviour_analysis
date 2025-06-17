@@ -1,6 +1,6 @@
 # Behaviour Analysis Repository
 
-This repository contains resources and a Jupyter Notebook for analyzing behavioral data of users in the Eindhoven neighbourhoods Karpen, Acht, and Vredeoord. The goal is to analyze user data with the view to establishing a bike-sharing start-up that will improve connectivity and sustainability in an inter- and intra-neighbourhood scale. The repository includes dataset files, scripts, and instructions for running the analysis on Google Colab or your local machine.
+This repository contains resources and a Jupyter Notebook for analyzing behavioral data of users in the Eindhoven neighbourhoods Karpen, Acht, and Vredeoord. The goal is to analyze user data with the view to establishing a bike-sharing start-up that will improve connectivity and sustainability on an inter- and intra-neighbourhood scale. The repository includes dataset files, scripts, and instructions for running the analysis on Google Colab or your local machine.
 
 ---
 
