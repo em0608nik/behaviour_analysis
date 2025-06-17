@@ -101,7 +101,7 @@ The `behaviour_analysis` folder contains the following datasets:
 
   * Includes opening time for each day of the week of major bicycle parking lots in Eindhoven, acquired from https://data.eindhoven.nl/explore/dataset/fietsenstallingen/information/?disjunctive.naam_fietsenstalling&disjunctive.type_stalling&disjunctive.openingstijden_maandag&disjunctive.openingstijden_dinsdag&disjunctive.openingstijden_woensdag&disjunctive.openingstijds_donderdag&disjunctive.openingstijden_vrijdag&disjunctive.openingstijden_zaterdag&disjunctive.openingstijden_zondag 
 
-* **`final_amenities`**:
+* **`final_amenities.geojson`**:
 
   * Includes amenities in the area of interest, separated by function. Columns include:
      * `name`: Tpe/name of amenity.
